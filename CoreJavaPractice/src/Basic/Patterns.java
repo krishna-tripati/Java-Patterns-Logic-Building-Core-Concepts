@@ -1,3 +1,5 @@
+package Basic;
+
 public class Patterns {
     public static void p1(int a){
         for(int i=1; i<=a; i++){
